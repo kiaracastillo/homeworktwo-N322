@@ -48,7 +48,6 @@ export default function LoginScreen() {
           justifyContent: "center",
           marginBottom: 10,
           
-         
         },
         logo: {
           width: 250,

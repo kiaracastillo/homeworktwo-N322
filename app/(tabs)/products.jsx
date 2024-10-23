@@ -23,6 +23,8 @@ export default function products() {
 
           <View style={styles.grid}>
 
+            
+
  <View style={styles.productInfo} >
     <Image style={styles.productImg} source={require("../../assets/images/blueberrie.jpg")} />
     <Text style={{fontWeight: 'bold', fontSize: 15 }}> Blue</Text>
